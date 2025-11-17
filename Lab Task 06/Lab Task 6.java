@@ -1,7 +1,7 @@
-Write a function capitalize(lower_case_word) that takes the lower case word and returns the 
+/*Write a function capitalize(lower_case_word) that takes the lower case word and returns the 
 word with the first letter capitalized. Eg., System.out.println(capitalize(“word”)) should 
 print the word Word.Then, given a line of lowercase ASCII words (text separated by a single space), print 
-it with the first letter of each word capitalized using the your own function capitalize(). 
+it with the first letter of each word capitalized using the your own function capitalize(). */
 
 import java.util.Scanner;
 
